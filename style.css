@@ -45,7 +45,7 @@ h3 {
 }
 
 #final {
-    align-content: center;
+    margin: 0 auto;
     text-align: center;
     width: 500px;
     border: solid 2px #53585D;
