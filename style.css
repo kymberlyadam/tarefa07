@@ -46,7 +46,7 @@ h3 {
 
 #final {
     
-    margin-left: 20%;
+    margin-left: 40%;
     width: 500px;
     text-align: center;
     border: solid 2px #53585D;
@@ -67,10 +67,11 @@ h3 {
     border: solid 2px #00405E;
     border-radius: 4px;
 }
-.button :focus {
-    border: solid 1px #00405E;
-    background-color: #e0f3f3;
+.button :hover {
+    background-color: #B4BEC9;
+    cursor: pointer;
 }
+
 .img {
     padding: 25px;
 }
