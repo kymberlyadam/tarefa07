@@ -45,10 +45,9 @@ h3 {
 }
 
 #final {
-    
-    margin-left: 40%;
-    width: 500px;
+    align-content: center;
     text-align: center;
+    width: 500px;
     border: solid 2px #53585D;
     border-radius: 2px;
     padding: 10px;
